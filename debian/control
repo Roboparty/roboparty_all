@@ -6,7 +6,7 @@ Build-Depends: debhelper-compat (= 12)
 
 Package: roboparty-all
 Architecture: all
-Depends: ${misc:Depends}, roboparty-base (>= 1.0.0), roboparty-description (>= 1.0.0), roboparty-bms (>= 1.0.0), roboparty-imu (>= 1.0.0), roboparty-motors (>= 1.0.0), roboparty-example (>= 1.0.0), roboparty-inference (>= 1.0.0), roboparty-deploy (>= 1.0.0)
+Depends: ${misc:Depends}, roboparty-base (>= 1.0.0), roboparty-description (>= 1.0.0), roboparty-bms (>= 1.0.0), roboparty-imu (>= 1.0.0), roboparty-motors (>= 1.0.0), roboparty-example (>= 1.0.0), roboparty-inference (>= 1.0.0), roboparty-go (>= 1.0.0)
 Description: Metapackage for RoboParty robot software stack
  This package installs all the necessary robot ROS 2 drivers,
  examples, models, and dependencies for the RoboParty robots.
