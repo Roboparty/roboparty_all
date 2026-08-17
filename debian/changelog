@@ -1,3 +1,9 @@
+roboparty-all (1.2.2-1) stable; urgency=medium
+
+  * Add roboparty-rp-head dependency
+
+ -- wentywenty <2321901849@qq.com>  Mon, 17 Aug 2026 20:08:23 +0800
+
 roboparty-all (1.2.1-1) stable; urgency=medium
 
   * Add roboparty-hand and roboparty-rp-server dependencies
