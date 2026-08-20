@@ -17,6 +17,8 @@ Depends: ${misc:Depends},
          roboparty-go (>= 1.0.0),
          roboparty-hand (>= 1.0.0),
          roboparty-rp-server (>= 1.0.0),
+         roboparty-camera (>= 1.2.0),
+         roboparty-lidar (>= 0.1.0),
          roboparty-rp-head (>= 0.1.0)
 Description: Metapackage for RoboParty robot software stack
  This package installs all the necessary robot ROS 2 drivers,
