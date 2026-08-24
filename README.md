@@ -15,6 +15,7 @@ Installing the metapackage will automatically pull in the latest versions of the
 * `roboparty-bms` (Battery Management System drivers)
 * `roboparty-imu` (IMU drivers)
 * `roboparty-motors` (Motor controllers and interfaces)
+* `roboparty-dexhand` (Dexterous hand driver)
 * `roboparty-inference` (AI inference capabilities)
 * `roboparty-example` (Demonstration scripts and nodes)
 * `roboparty-deploy` (Deployment configurations and startup scripts)

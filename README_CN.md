@@ -15,6 +15,7 @@
 * `roboparty-bms` (电源管理系统驱动)
 * `roboparty-imu` (惯性导航单元驱动)
 * `roboparty-motors` (多协议关节电机驱动库)
+* `roboparty-dexhand` (灵巧手驱动库)
 * `roboparty-inference` (AI 模型推理与步态控制)
 * `roboparty-example` (官方测试案例与 Demo)
 * `roboparty-deploy` (一键启动脚本与网络配置等)
