@@ -1,3 +1,9 @@
+roboparty-all (1.3.2-1) stable; urgency=medium
+
+  * Remove inference, startup, camera, and RP head from the metapackage.
+
+ -- wentywenty <2321901849@qq.com>  Thu, 10 Sep 2026 17:52:25 +0800
+
 roboparty-all (1.3.1-1) stable; urgency=medium
 
   * Replace roboparty-hand dependency with roboparty-dexhand
