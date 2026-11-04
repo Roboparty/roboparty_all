@@ -16,9 +16,14 @@
 * `roboparty-imu` (惯性导航单元驱动)
 * `roboparty-motors` (多协议关节电机驱动库)
 * `roboparty-dexhand` (灵巧手驱动库)
+* `roboparty-camera` (相机驱动)
 * `roboparty-inference` (AI 模型推理与步态控制)
-* `roboparty-example` (官方测试案例与 Demo)
-* `roboparty-deploy` (一键启动脚本与网络配置等)
+* `roboparty-analyze` (诊断与日志分析)
+* `robopi-tui` (配置与诊断 TUI)
+* `roboparty-rp-server` (统一 Web/WebSocket 后端)
+* `roboparty-lidar` (激光雷达驱动占位包)
+
+`roboparty-start` 和 RP head 相关包**不**属于本元包；目标产品需要时请单独安装。
 
 ## 安装方法
 

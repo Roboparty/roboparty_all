@@ -16,9 +16,15 @@ Installing the metapackage will automatically pull in the latest versions of the
 * `roboparty-imu` (IMU drivers)
 * `roboparty-motors` (Motor controllers and interfaces)
 * `roboparty-dexhand` (Dexterous hand driver)
+* `roboparty-camera` (Camera drivers)
 * `roboparty-inference` (AI inference capabilities)
-* `roboparty-example` (Demonstration scripts and nodes)
-* `roboparty-deploy` (Deployment configurations and startup scripts)
+* `roboparty-analyze` (Diagnostics and log analysis)
+* `robopi-tui` (Configuration and diagnostics TUI)
+* `roboparty-rp-server` (Unified web/WebSocket backend)
+* `roboparty-lidar` (Lidar driver placeholder)
+
+`roboparty-start` and the RP head packages are intentionally **not** part of
+this metapackage. Install them explicitly when the target product needs them.
 
 ## Installation
 
