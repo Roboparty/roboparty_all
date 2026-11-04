@@ -21,10 +21,11 @@ Installing the metapackage will automatically pull in the latest versions of the
 * `roboparty-analyze` (Diagnostics and log analysis)
 * `robopi-tui` (Configuration and diagnostics TUI)
 * `roboparty-rp-server` (Unified web/WebSocket backend)
+* `roboparty-start` (Runtime entry point and launch scripts)
 * `roboparty-lidar` (Lidar driver placeholder)
 
-`roboparty-start` and the RP head packages are intentionally **not** part of
-this metapackage. Install them explicitly when the target product needs them.
+The RP head packages are intentionally **not** part of this metapackage.
+Install them explicitly when the target product needs them.
 
 ## Installation
 

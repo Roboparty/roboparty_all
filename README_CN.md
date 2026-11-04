@@ -21,9 +21,10 @@
 * `roboparty-analyze` (诊断与日志分析)
 * `robopi-tui` (配置与诊断 TUI)
 * `roboparty-rp-server` (统一 Web/WebSocket 后端)
+* `roboparty-start` (运行入口与启动脚本)
 * `roboparty-lidar` (激光雷达驱动占位包)
 
-`roboparty-start` 和 RP head 相关包**不**属于本元包；目标产品需要时请单独安装。
+RP head 相关包**不**属于本元包；目标产品需要时请单独安装。
 
 ## 安装方法
 
