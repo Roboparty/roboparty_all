@@ -15,6 +15,7 @@
 * `roboparty-bms` (电源管理系统驱动)
 * `roboparty-imu` (惯性导航单元驱动)
 * `roboparty-motors` (多协议关节电机驱动库)
+* `roboparty-rp-head` (两轴 LRO 头部控制器与 CLI)
 * `roboparty-dexhand` (灵巧手驱动库)
 * `roboparty-camera` (相机驱动)
 * `roboparty-inference` (AI 模型推理与步态控制)
@@ -24,7 +25,7 @@
 * `roboparty-start` (运行入口与启动脚本)
 * `roboparty-lidar` (激光雷达驱动占位包)
 
-RP head 相关包**不**属于本元包；目标产品需要时请单独安装。
+两轴 LRO 头部（`roboparty-rp-head`）已包含在本元包中。
 
 ## 安装方法
 

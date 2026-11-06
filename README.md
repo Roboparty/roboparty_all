@@ -15,6 +15,7 @@ Installing the metapackage will automatically pull in the latest versions of the
 * `roboparty-bms` (Battery Management System drivers)
 * `roboparty-imu` (IMU drivers)
 * `roboparty-motors` (Motor controllers and interfaces)
+* `roboparty-rp-head` (Two-axis LRO head controller and CLI)
 * `roboparty-dexhand` (Dexterous hand driver)
 * `roboparty-camera` (Camera drivers)
 * `roboparty-inference` (AI inference capabilities)
@@ -24,8 +25,7 @@ Installing the metapackage will automatically pull in the latest versions of the
 * `roboparty-start` (Runtime entry point and launch scripts)
 * `roboparty-lidar` (Lidar driver placeholder)
 
-The RP head packages are intentionally **not** part of this metapackage.
-Install them explicitly when the target product needs them.
+The two-axis LRO head (`roboparty-rp-head`) is included.
 
 ## Installation
 
